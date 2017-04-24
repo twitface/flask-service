@@ -1,7 +1,9 @@
 template:
 - name: __PROJECT_NAME__
+  title: "Project Name"
   type: identifier
 - name: __PREFIX__
+  title: "URL Prefix"
   type: path
 
 prefix: __PREFIX__
